@@ -16,4 +16,6 @@ The packages documented here are:
   - For aditional datasets, access the [link](https://github.com/CamilaPPerico/rSWeeP_datasets).
 - 
 
+## Citation and References 
 
+Access the [page](https://camilapperico.github.io/citation).
