@@ -1,7 +1,7 @@
 # rSWeeP
 [**BACK**](https://camilapperico.github.io/)
 
-[**BACK** url="[http://www.google.com](https://camilapperico.github.io/)"]
+[**BACK** url="https://camilapperico.github.io/"]
 
 rSWeeP is a Bioconductor package aimed to vectorze biological sequences (amino acids or nucleotides).
 
