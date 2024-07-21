@@ -1,6 +1,6 @@
 # AIBIA
 
-Laboratory of Artificial Intelligence Applied to Bioinformatics (AIBIA) group linked to the graduate program in bionformatics of Federal University of Paraná.
+Laboratory of Artificial Intelligence Applied to Bioinformatics (AIBIA) group linked to the Graduate Program in Bionformatics of Federal University of Paraná (UFPR).
 
 More information at: 
 
