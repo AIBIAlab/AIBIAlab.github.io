@@ -1,1 +1,5 @@
-# CamilaPPerico.github.io
+# Documentation page
+
+The packages documented here are:
+
+- rSWeeP
