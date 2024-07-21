@@ -12,7 +12,7 @@ More information at:
 
 The packages documented here are:
 
-- [rSWeeP](https://camilapperico.github.io/rSWeeP)
+- [**rSWeeP**](https://camilapperico.github.io/rSWeeP)
   - Use the [link](https://github.com/CamilaPPerico/rSWeeP) to access the package
   - For aditional datasets, access the [link](https://github.com/CamilaPPerico/rSWeeP_datasets).
 - 
@@ -20,3 +20,5 @@ The packages documented here are:
 ## Citation and References 
 
 Access the [page](https://camilapperico.github.io/citation).
+
+
