@@ -4,7 +4,7 @@ Laboratory of Artificial Intelligence Applied to Bioinformatics (AIBIA) group li
 
 More information at: 
 
-- [Oficial site of Bionformatics Graduate Program](http://www.bioinfo.ufpr.br/)
+- [Oficial site of Bionformatics Graduate Program](http://www.bioinfo.ufpr.br/en/)
 - [Students of Bionformatics Graduate Program](https://www.bioinfodiscentes.com.br/)
 
 
