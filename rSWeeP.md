@@ -8,7 +8,7 @@ To access a tutorial for the **Parameters use** of the package, use the  [link](
 
 ## Instalation
 
-The current release can be installed from Bioconductor:
+The current release can be installed from [Bioconductor](https://bioconductor.org/packages/release/bioc/html/rSWeeP.html):
 
 ```r
 if (!require("BiocManager", quietly = TRUE))
