@@ -1,6 +1,6 @@
 # rSWeeP
 
-<button onclick="window.location.href='https://camilapperico.github.io/';">**BACK**</button>
+<button onclick="window.location.href='https://camilapperico.github.io/';">**HOME**</button>
 
 rSWeeP is a Bioconductor package aimed to vectorze biological sequences (amino acids or nucleotides).
 
