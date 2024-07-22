@@ -1486,19 +1486,20 @@ border-radius: 0px;
 </div>
 
 
+<button onclick="window.location.href=&#39;https://camilapperico.github.io/rSWeeP/&#39;;">
+<strong>HOME</strong>
+</button>
 <p>The package can be installed via Bioconductor, as shown below:</p>
 <pre class="r"><code>if (!require(&quot;BiocManager&quot;, quietly = TRUE))
     install.packages(&quot;BiocManager&quot;)
 
 BiocManager::install(&quot;rSWeeP&quot;)</code></pre>
-<pre class="r"><code>setwd(&#39;~/BD/libs/rSWeeP2/rSWeeP/&#39;)
-devtools::load_all()</code></pre>
 <div id="sweep-of-mithocondrial-proteome" class="section level1">
 <h1>1. SweeP of mithocondrial proteome</h1>
 <p>Consider a set of 13 mitochondrial proteomes (translated CDSs)
 deposited in the folder at the address <code>path</code> in FASTA
 format. These sequences can be vectorized</p>
-<pre class="r"><code>#library(rSWeeP)
+<pre class="r"><code>library(rSWeeP)
 path = paste (system.file(&quot;examples/aaMitochondrial/&quot;,package = &quot;rSWeeP&quot;),&#39;/&#39;, sep = &#39;&#39;)
 sw = SWeePlite(path,seqtype=&#39;AA&#39;,mask=c(4),psz=1000)</code></pre>
 <details>
@@ -1532,7 +1533,7 @@ may be important in subsequent steps.</p>
 ## [1] &quot;none&quot;
 ## 
 ## $timeElapsed
-## [1] 4.203
+## [1] 5.452
 ## 
 ## $headers
 ##  [1] &quot;01_Pan_troglodytes&quot;               &quot;02_Capra_aegagrus&quot;               
