@@ -13,12 +13,12 @@ More information at:
 The packages documented here are:
 
 - [**rSWeeP**](https://camilapperico.github.io/rSWeeP)
-  - Use the [link](https://github.com/CamilaPPerico/rSWeeP) to access the package
+  - Use the [link](https://github.com/CamilaPPerico/rSWeeP) to access the package at github
   - For aditional datasets, access the [link](https://github.com/CamilaPPerico/rSWeeP_datasets).
 - 
 
 ## Citation and References 
 
-Access the [page](https://camilapperico.github.io/citation).
+Visit the [page](https://camilapperico.github.io/citation) for a list of studies related to the group.
 
 
