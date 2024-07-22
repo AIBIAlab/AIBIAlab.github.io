@@ -1,5 +1,7 @@
 # Citation and References
 
+<button onclick="window.location.href='https://camilapperico.github.io/';">**HOME**</button>
+
 De Pierri, Camilla Reginatto, Ricardo Voyceik, Letı́cia Graziela Costa Santos de Mattos, Mariane Gonçalves Kulik, Josué Oliveira Camargo, Aryel Marlus Repula de Oliveira, Bruno Thiago de Lima Nichio, et al. 2020. “SWeeP: Representing Large Biological Sequences Datasets in Compact Vectors.” Scientific Reports 10 (1): 1–10. <https://doi.org/10.1038/s41598-019-55627-4>.
 
 Fernandes, Danrley, Mariane G Kulik, Diogo JS Machado, Jeroniza N Marchaukoski, Fabio O Pedrosa, Camilla R De Pierri, and Roberto T Raittz. 2020. “rSWeeP: AR/Bioconductor Package Deal with SWeeP Sequences Representation.” bioRxiv. <https://doi.org/10.1101/2020.09.09.290247>.
