@@ -20,7 +20,7 @@ The packages documented here are:
 ## HTML-TM data
 
 - Yoga's article- [Ieger Raittz, *et al.*, 2022](https://doi.org/10.1101/2022.12.05.22282979)
-  - [HTML-TM link](https://camilapperico.github.io/HTMLTMYoga/TEXTS.html) 
+  - [HTML-TM link](https://camilapperico.github.io/HTMLTM_Yoga) 
 
 ## Citation and References 
 
