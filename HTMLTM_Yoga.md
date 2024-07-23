@@ -3,7 +3,7 @@
 
 HTML-TM Yoga is related to the [this article](https://doi.org/10.1101/2022.12.05.22282979).
 
-We've provided some two HTML's:
+We've provided two HTML's:
 1. [Texts](https://camilapperico.github.io/HTMLTMYoga/TEXTS.html) - each line corresponds to an article
 2. [Words](https://camilapperico.github.io/HTMLTMYoga/WORDS.html) - each line corresponds to a term
 
