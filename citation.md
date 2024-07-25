@@ -1,6 +1,6 @@
 # Citation and References
 
-<button onclick="window.location.href='https://camilapperico.github.io/';">**HOME**</button>
+<button onclick="window.location.href='https://aibialab.github.io/';">**HOME**</button>
 
 De Pierri, Camilla Reginatto, Ricardo Voyceik, Letı́cia Graziela Costa Santos de Mattos, Mariane Gonçalves Kulik, Josué Oliveira Camargo, Aryel Marlus Repula de Oliveira, Bruno Thiago de Lima Nichio, et al. 2020. “SWeeP: Representing Large Biological Sequences Datasets in Compact Vectors.” Scientific Reports 10 (1): 1–10. <https://doi.org/10.1038/s41598-019-55627-4>.
 
