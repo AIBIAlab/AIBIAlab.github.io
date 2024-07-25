@@ -12,7 +12,7 @@ More information at:
 
 The packages documented here are:
 
-- [**rSWeeP**](https://camilapperico.github.io/rSWeeP)
+- [**rSWeeP**](https://aibialab.github.io/rSWeeP)
   - Use the [link](https://github.com/CamilaPPerico/rSWeeP) to access the package at github
   - For aditional datasets, access the [link](https://github.com/CamilaPPerico/rSWeeP_datasets).
 
@@ -20,10 +20,10 @@ The packages documented here are:
 ## HTML-TM data
 
 - Yoga's article- [Ieger Raittz, *et al.*, 2022](https://doi.org/10.1101/2022.12.05.22282979)
-  - [HTML-TM link](https://camilapperico.github.io/HTMLTM_Yoga) 
+  - [HTML-TM link](https://aibialab.github.io/HTMLTM_Yoga) 
 
 ## Citation and References 
 
-Visit the [page](https://camilapperico.github.io/citation) for a list of studies related to the group.
+Visit the [page](https://aibialab.github.io/citation) for a list of studies related to the group.
 
 
