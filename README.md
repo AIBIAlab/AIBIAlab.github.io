@@ -1,6 +1,6 @@
 # AIBIA Lab
 
-The Laboratory of Artificial Intelligence Applied to Bioinformatics (AIBIA) is linked to the Graduate Program in Bionformatics of Federal University of Paraná (UFPR).
+The Artificial Intelligence Applied to Bioinformatics Laboratory (AIBIA) is linked to the Graduate Program in Bionformatics of Federal University of Paraná (UFPR).
 
 More information at: 
 
