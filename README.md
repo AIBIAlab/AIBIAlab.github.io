@@ -13,9 +13,7 @@ More information at:
 The packages documented here are:
 
 - [**rSWeeP**](https://aibialab.github.io/rSWeeP)
-  - Use the [link](https://github.com/CamilaPPerico/rSWeeP) to access the package at github
-  - For aditional datasets, access the [link](https://github.com/CamilaPPerico/rSWeeP_datasets).
-
+  
 
 ## HTML-TM data
 
