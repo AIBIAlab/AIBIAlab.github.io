@@ -1,7 +1,11 @@
 # rSWeeP
 <button onclick="window.location.href='https://aibialab.github.io/';">**HOME**</button>
 
-rSWeeP is a Bioconductor package aimed to vectorze biological sequences (amino acids or nucleotides).
+The *rSWeeP* package is an R implementation of the Spaced Words Projection (SWeeP) method (De Pierri, 2019). The main function of this package is to provide a vector representation of biological sequences (nucleotides or amino acids), and thus favor alignment-free phylogenetic studies. Each sequence provided is represented by a compact numerical vector which is easier to analyze. SWeeP uses k-mers counting for representing the sequences in high dimensional vector (HDV) and then projected into a low dimensional vector (LDV) through random projection using an orthonormal base. The LDV represents the biological sequence and is handable for comparative analisys and machine learning implements.
+In addition, the package allows general dimensionality reduction of RNAseq data and generic matrices. 
+
+  
+rSWeeP is a Bioconductor package:
 
 - Use the [link](https://github.com/CamilaPPerico/rSWeeP) to access the package at github
 - Use the [link](https://bioconductor.org/packages/devel/bioc/html/rSWeeP.html) to access the last version package at Bioconductor
