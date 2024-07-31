@@ -1,7 +1,8 @@
 # HTML Text mining for YOGA
 <button onclick="window.location.href='https://aibialab.github.io/';">**HOME**</button>
 
-HTML-TM Yoga is related to the [this article](https://doi.org/10.1101/2022.12.05.22282979).
+HTML-TM Yoga is related to the article of [Ieger Raittz, *et al.*, 2022](https://doi.org/10.1101/2022.12.05.22282979) 
+
 
 We've provided two HTML's:
 1. [Texts](https://aibialab.github.io/HTMLTMYoga/TEXTS.html) - each line corresponds to an article
