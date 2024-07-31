@@ -7,8 +7,8 @@ HTML-TM Yoga is related to the article of [Ieger Raittz, *et al.*, 2022](https:/
 We've provided two HTML's:
 1. [Texts](https://aibialab.github.io/HTMLTMYoga/TEXTS.html) - each line corresponds to an article
 2. [Words](https://aibialab.github.io/HTMLTMYoga/WORDS.html) - each line corresponds to a term (sort by term id)
-3. [Words](https://aibialab.github.io/HTMLTMYoga/WORDS2.html) - each line corresponds to a term (sort by tree order)
-4. [Tree](https://aibialab.github.io/HTMLTMYoga/WRDtree.html) - phylogenetic tree of words
+3. [Words](https://aibialab.github.io/HTMLTMYoga/WORDS2.html) - each line corresponds to a term (sort by tree order - tree created using the 'complete' algorithm)
+4. [Tree](https://aibialab.github.io/HTMLTMYoga/WRDtree.html) - phylogenetic tree of words 
 
 Aditional material at the [**link**](https://sourceforge.net/projects/yoga-paper-material/).
 
