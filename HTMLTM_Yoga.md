@@ -8,6 +8,7 @@ We've provided two HTML's:
 1. [Texts](https://aibialab.github.io/HTMLTMYoga/TEXTS.html) - each line corresponds to an article
 2. [Words](https://aibialab.github.io/HTMLTMYoga/WORDS.html) - each line corresponds to a term (sort by term id)
 3. [Words](https://aibialab.github.io/HTMLTMYoga/WORDS2.html) - each line corresponds to a term (sort by tree order)
+4. [Tree](https://aibialab.github.io/HTMLTMYoga/WRDtree.html) - phylogenetic tree of words
 
 Aditional material at the [**link**](https://sourceforge.net/projects/yoga-paper-material/).
 
@@ -27,6 +28,10 @@ most related to the term, 4) link abstracts: a link to the tree of terms rooted 
 The trees are all rooted in the query term. The graph has two curves, one in blue with the
 frequency of the term yoga in the literature against time, and in purple the frequency that the query
 term is found.
+
+#### TREE
+[TREE](https://aibialab.github.io/HTMLTMYoga/WRDtree.html) presents a phylogenetic tree of 3,000 words. The number before the word (label of branch) corresponds to the word id. 
+
 
 ## Citation
 
