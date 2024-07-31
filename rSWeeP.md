@@ -3,6 +3,12 @@
 
 rSWeeP is a Bioconductor package aimed to vectorze biological sequences (amino acids or nucleotides).
 
+- Use the [link](https://github.com/CamilaPPerico/rSWeeP) to access the package at github
+- Use the [link](https://bioconductor.org/packages/devel/bioc/html/rSWeeP.html) to access the last version package at Bioconductor
+- For aditional datasets, access the [link](https://github.com/CamilaPPerico/rSWeeP_datasets).
+
+## Tutorial pages
+
 We've provided some tutorials on the rSWeeP package:
 1. To get started, access the package's [**QuickStart**](https://aibialab.github.io/rSWeeP_quickstart.html);
 2. The [**Parameters**](https://aibialab.github.io/rSWeeP_parameters.html) tutorial details the use of function parameters and indicates the best set of parameters for each application;
