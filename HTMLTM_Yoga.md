@@ -37,5 +37,5 @@ term is found.
 
 Please cite this study as follows:
 
-Raittz, R. I., De Pierri, C. R., Perico, C. P., Machado, D. J., Marchaukoski, J. N., & Raittz, R. T. (2022). What are we learning with Yoga: a text mining approach to literature. medRxiv, 2022-12. <https://doi.org/10.1101/2022.12.05.22282979>
+Ieger Raittz, R., De Pierri, C. R., Perico, C. P., Machado, D. J., Marchaukoski, J. N., & Raittz, R. T. (2022). What are we learning with Yoga: a text mining approach to literature. medRxiv, 2022-12. <https://doi.org/10.1101/2022.12.05.22282979>
 
