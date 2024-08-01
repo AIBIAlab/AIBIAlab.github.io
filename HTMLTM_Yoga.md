@@ -30,7 +30,7 @@ frequency of the term yoga in the literature against time, and in purple the fre
 term is found.
 
 #### TREE
-[TREE](https://aibialab.github.io/HTMLTMYoga/WRDtree.html) presents a phylogenetic tree of 3,000 words. The number before the word (label of branch) corresponds to the word id, and the number after the term correponds to its relevance in the set.
+[TREE](https://aibialab.github.io/HTMLTMYoga/WRDtree.html) presents a phylogenetic tree of 1,500 words. The number before the word (label of branch) corresponds to the word id.
 
 
 ## Citation
