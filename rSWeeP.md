@@ -1,7 +1,12 @@
-# rSWeeP
+
+<div ng-hide="projectCtrl.project.notFound" id="gca-project-header" class="maia-col-10">
+        <img class="gca-project-logo" src="https://aibialab.github.io/figs/SWeeP0.png" style="height: 90px; width:180px;"> 
+        <h1 class="ng-binding">rSWeeP package</h1>
+      </div>
+
+
 <button onclick="window.location.href='https://aibialab.github.io/';">**HOME**</button>
 
-<p align="right"> <img src="https://aibialab.github.io/figs/SWeeP0.png" alt="SWeeP logo" style="height: 90px; width:180px;"/> </p>
 
 
 
