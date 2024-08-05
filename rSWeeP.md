@@ -1,14 +1,6 @@
-
-<div ng-hide="projectCtrl.project.notFound" id="gca-project-header" class="maia-col-10">
-        <img class="gca-project-logo" src="https://aibialab.github.io/figs/SWeeP0.png" style="height: 90px; width:180px;"> 
-        <h1 class="ng-binding">rSWeeP package</h1>
-      </div>
-
+# rSWeeP
 
 <button onclick="window.location.href='https://aibialab.github.io/';">**HOME**</button>
-
-
-
 
 The *rSWeeP* package is an R implementation of the Spaced Words Projection (SWeeP) method (De Pierri, 2019). The main function of this package is to provide a vector representation of biological sequences (nucleotides or amino acids), and thus favor alignment-free phylogenetic studies. Each sequence provided is represented by a compact numerical vector which is easier to analyze. SWeeP uses k-mers counting for representing the sequences in high dimensional vector (HDV) and then projected into a low dimensional vector (LDV) through random projection using an orthonormal base. The LDV represents the biological sequence and is handable for comparative analisys and machine learning implements.
 In addition, the package allows general dimensionality reduction of RNAseq data and generic matrices. 
