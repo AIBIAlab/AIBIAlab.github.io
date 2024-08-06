@@ -11,6 +11,7 @@ rSWeeP is a Bioconductor package:
 - Use the [link](https://github.com/CamilaPPerico/rSWeeP) to access the package at github
 - Use the [link](https://bioconductor.org/packages/devel/bioc/html/rSWeeP.html) to access the last version package at Bioconductor
 - For aditional datasets, access the [link](https://github.com/CamilaPPerico/rSWeeP_datasets).
+-[FAQ](https://github.com/orgs/AIBIAlab/discussions)
 
 ## Tutorial pages
 
