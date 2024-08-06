@@ -7,6 +7,7 @@ More information at:
 - [Oficial site of Bionformatics Graduate Program](http://www.bioinfo.ufpr.br/en/)
 - [Students of Bionformatics Graduate Program](https://www.bioinfodiscentes.com.br/)
 - [AIBIA lab github link](https://github.com/AIBIAlab)
+- [FAQ](https://github.com/orgs/AIBIAlab/discussions)
 
 
 ## Documentation pages
