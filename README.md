@@ -26,3 +26,17 @@ The packages documented here are:
 Visit the [page](https://aibialab.github.io/citation) for a list of studies related to the group.
 
 
+
+## Contact
+
+**Laboratory contact**
+- labiaufpr@gmail.com
+
+**Page mantainer:**
+- MSc. Camila Pereira Perico - camilapp94@gmail.com
+
+**Member professors:**
+- Roberto Tadeu Raittz - raittz@gmail.com
+- Dieval Guizelini - dievalg@gmail.com
+- Jeroniza Nunes Marchaukoski - jeroniza@gmail.com
+
