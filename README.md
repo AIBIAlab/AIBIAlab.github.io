@@ -33,7 +33,7 @@ Visit the [page](https://aibialab.github.io/citation) for a list of studies rela
 - labiaufpr@gmail.com
 
 **Page mantainer:**
-- MSc. Camila Pereira Perico - camilapp94@gmail.com
+- Camila Pereira Perico - camilapp94@gmail.com
 
 **Member professors:**
 - Roberto Tadeu Raittz - raittz@gmail.com
