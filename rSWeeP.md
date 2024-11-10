@@ -32,6 +32,16 @@ if (!require("BiocManager", quietly = TRUE))
 BiocManager::install("rSWeeP")
 ```
 
+
+## Contact
+
+**Laboratory contact**
+- labiaufpr@gmail.com
+
+**Developers**
+- MSc. Camila Pereira Perico - camilapp94@gmail.com
+- Prof. Dr. Roberto Tadeu Raittz - raittz@gmail.com
+
 ## Citation
 
 Please cite this package as follows:
