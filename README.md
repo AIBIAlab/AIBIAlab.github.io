@@ -21,6 +21,9 @@ The packages documented here are:
 
 - [HTML Text mining for YOGA](https://aibialab.github.io/HTMLTM_Yoga)
 
+## BioinfoWiki
+- [BioinfoWiki](https://bioinfowiki.notion.site/) is an AIBIA laboratory project to disseminate bioinformatics concepts and tools. Available only in Portuguese for now.
+
 ## Citation and References 
 
 Visit the [page](https://aibialab.github.io/citation) for a list of studies related to the group.
