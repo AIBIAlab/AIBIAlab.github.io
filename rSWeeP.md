@@ -47,4 +47,8 @@ BiocManager::install("rSWeeP")
 
 Please cite this package as follows:
 
+Perico C, Fernandes D, Kulik M, Varaschin J, de Pierri C, Vialle R, Raittz R (2024). rSWeeP: Spaced Words Projection (SWeeP). R package version 1.18.0. DOI: [10.18129/B9.bioc.rSWeeP](https://doi.org/10.18129/B9.bioc.rSWeeP)
+
+To cite the original article of the method, use:
+
 De Pierri, Camilla Reginatto, Ricardo Voyceik, Letı́cia Graziela Costa Santos de Mattos, Mariane Gonçalves Kulik, Josué Oliveira Camargo, Aryel Marlus Repula de Oliveira, Bruno Thiago de Lima Nichio, et al. 2020. “SWeeP: Representing Large Biological Sequences Datasets in Compact Vectors.” Scientific Reports 10 (1): 1–10. <https://doi.org/10.1038/s41598-019-55627-4>. 
