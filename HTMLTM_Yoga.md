@@ -10,7 +10,7 @@ We've provided two HTML's:
 3. [Words](https://aibialab.github.io/HTMLTMYoga/WORDS2.html) - each line corresponds to a term (sort by tree order - tree created using the 'complete' algorithm)
 4. [Tree](https://aibialab.github.io/HTMLTMYoga/WRDtree.html) - phylogenetic tree of 1500 words (HTML of tree produced with [Phy2HTML](https://github.com/msrosenberg/Phy2HTML))
 
-Aditional material at the [**link**](https://sourceforge.net/projects/yoga-paper-material/).
+Aditional material at Zenodo - [**DOI: 10.5281/zenodo.14763945**](https://doi.org/10.5281/zenodo.14763945).
 
 ## How to use the HTMLs?
 
