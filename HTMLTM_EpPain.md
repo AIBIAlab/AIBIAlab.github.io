@@ -2,8 +2,12 @@
 <button onclick="window.location.href='https://aibialab.github.io/';">**HOME**</button>
 
 VECTOR ANALYSIS OF THE LITERATURE ON CHRONIC PAIN AND EPIGENETICS – TRENDS, CONVERGENCES AND GAPS.
+
 [Portuguese title: ANÁLISE VETORIAL DA ESTRUTURA DA LITERATURA DE DOR CRÔNICA E EPIGENÉTICA – TENDÊNCIAS, CONVERGÊNCIAS E LACUNAS]
-HTML-TM Yoga is related to the article of [Ieger Raittz, *et al.*, 2022](https://doi.org/10.1101/2022.12.05.22282979) 
+
+## About
+
+Chronic pain is recognized as a disease in its own right, given its persistence beyond the resolution of the initial injury and its significant functional and psychological impact. Recent evidence indicates that epigenetic mechanisms, rather than fixed genetic mutations, play a central role in the development and maintenance of chronic pain. Acting as an interface between genes and the environment, epigenetics regulates gene expression without altering the DNA sequence, leaving potentially heritable marks such as DNA methylation, histone modifications, and RNA-based regulation. This study presents an analysis of the scientific literature available in the PubMed database, focusing on epigenetic learning processes related to pain. Titles and abstracts were vectorized using the SWeeP approach and analyzed with text-mining methods (HTML-TM), enabling semantic clustering and exploratory analysis. The findings revealed two major thematic axes that structure the field: intrinsic factors related to human development and aging, and acquired or contextual factors associated with chronic pain. The analysis also highlighted existing knowledge gaps and demonstrated how epigenetic mechanisms may serve as potential biomarkers and therapeutic targets. Overall, the integration of chronic pain and epigenetics, supported by bioinformatics tools, enhances the understanding of this complex phenomenon and offers valuable insights for advances in prevention, diagnosis, and treatment.
 
 
 We've provided two HTML's:
