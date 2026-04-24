@@ -20,6 +20,7 @@ The packages documented here are:
 ## HTML-TM data
 
 - [HTML Text mining for YOGA](https://aibialab.github.io/HTMLTM_Yoga)
+- [HTML Text mining for Epigenetics and Chronic Pain](https://aibialab.github.io/HTMLTM_EpPain)
 
 ## BioinfoWiki
 - [BioinfoWiki](https://bioinfowiki.notion.site/) is an AIBIA laboratory project to disseminate bioinformatics concepts and tools. Available only in Portuguese for now.
