@@ -1,9 +1,9 @@
 # HTML Text mining for Chronic Pain and Epigenetics
 <button onclick="window.location.href='https://aibialab.github.io/';">**HOME**</button>
 
-VECTOR ANALYSIS OF THE LITERATURE ON CHRONIC PAIN AND EPIGENETICS – TRENDS, CONVERGENCES AND GAPS.
+**Vector Analysis of the Literature on Chronic Pain and Epigenetics – Trends, Convergences and Gaps.**
 
-[Portuguese title: ANÁLISE VETORIAL DA ESTRUTURA DA LITERATURA DE DOR CRÔNICA E EPIGENÉTICA – TENDÊNCIAS, CONVERGÊNCIAS E LACUNAS]
+*Análise Vetorial da Estrutura da Literatura de Dor Crônica e Epigenética – Tendências, Convergências e Lacunas*
 
 ## About
 
