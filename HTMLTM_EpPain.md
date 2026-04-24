@@ -23,7 +23,7 @@ image below. Each article has a link to a list of articles (titles+abstract) tha
 the query article.
 
 #### WORDS
-[WORDS_id](https://aibialab.github.io/HTMLTMYoga/EpPain.html) contains: 1) Cod: word id , 2) WORD: the query term,
+[WORDS](https://aibialab.github.io/HTMLTMYoga/EpPain.html) contains: 1) Cod: word id , 2) WORD: the query term,
 3) Related words: a list of the 10 closest words, 3) Link title: a link to the articles (title+abstract)
 most related to the term, 4) link abstracts: a link to the tree of terms rooted in the query term, and
 5) link graphic: a graph of the frequency of the term in the literature.
