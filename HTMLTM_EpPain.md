@@ -11,22 +11,19 @@ Chronic pain is recognized as a disease in its own right, given its persistence 
 
 
 We've provided two HTML's:
-1. [Texts](https://aibialab.github.io/HTMLTMYoga/TEXTS.html) - each line corresponds to an article
-2. [Words](https://aibialab.github.io/HTMLTMYoga/WORDS.html) - each line corresponds to a term (sort by term id)
-3. [Words](https://aibialab.github.io/HTMLTMYoga/WORDS2.html) - each line corresponds to a term (sort by tree order - tree created using the 'complete' algorithm)
-4. [Tree](https://aibialab.github.io/HTMLTMYoga/WRDtree.html) - phylogenetic tree of 1500 words (HTML of tree produced with [Phy2HTML](https://github.com/msrosenberg/Phy2HTML))
-
-Aditional material at Zenodo - [**DOI: 10.5281/zenodo.14763945**](https://doi.org/10.5281/zenodo.14763945).
+1. [Texts](https://aibialab.github.io/HTMLTMEpPain/TEXTS.html) - each line corresponds to an article
+2. [Words](https://aibialab.github.io/HTMLTMEpPain/WORDS.html) - each line corresponds to a term 
+3. [Tree](https://aibialab.github.io/HTMLTMEpPain/WRDtree.html) - phylogenetic tree of 1500 words (HTML of tree produced with [Phy2HTML](https://github.com/msrosenberg/Phy2HTML))
 
 ## How to use the HTMLs?
 
 #### TEXTS
-[TEXTS](https://aibialab.github.io/HTMLTMYoga/TEXTS.html) contains a list of all the articles analysed, as shown in the
+[TEXTS](https://aibialab.github.io/HTMLTMEpPain/TEXTS.html) contains a list of all the articles analysed, as shown in the
 image below. Each article has a link to a list of articles (titles+abstract) that most closely match
 the query article.
 
 #### WORDS
-[WORDS_id](https://aibialab.github.io/HTMLTMYoga/WORDS.html) and [WORDS_tree](https://aibialab.github.io/HTMLTMYoga/WORDS2.html) contains: 1) Cod: word id , 2) WORD: the query term,
+[WORDS_id](https://aibialab.github.io/HTMLTMYoga/EpPain.html) contains: 1) Cod: word id , 2) WORD: the query term,
 3) Related words: a list of the 10 closest words, 3) Link title: a link to the articles (title+abstract)
 most related to the term, 4) link abstracts: a link to the tree of terms rooted in the query term, and
 5) link graphic: a graph of the frequency of the term in the literature.
@@ -36,7 +33,7 @@ frequency of the term yoga in the literature against time, and in purple the fre
 term is found.
 
 #### TREE
-[TREE](https://aibialab.github.io/HTMLTMYoga/WRDtree.html) presents a phylogenetic tree of 1,500 words. The number before the word (label of branch) corresponds to the word id.
+[TREE](https://aibialab.github.io/HTMLTMEpPain/WRDtree.html) presents a phylogenetic tree of 1,500 words. The number before the word (label of branch) corresponds to the word id.
 
 
 ## Authors
